@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+}
+.dogs{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.img-fluid{
+    border: 10px;
+    border-color: red;
+}
